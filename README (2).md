@@ -5,5 +5,4 @@ Suponiendo que ese día el clima estuvo templado y el ambiente hubo una temperat
 
 -Solucion
 
-![modelo_matematico.png](C:\Users\walmart\Downloads\modelo_matematico.png)
-
+![modelo_matematico](https://user-images.githubusercontent.com/90205705/145421730-aa8a34c1-09e3-41f6-bc61-404a094cf1e7.png)
